@@ -10,7 +10,7 @@ Youtube
 
 Create bot to give user a challenge in real life
 
-<h2> >Bot knows such commands like:</h2>
+<h2> Bot knows such commands like:</h2>
 
 -/start 
 
